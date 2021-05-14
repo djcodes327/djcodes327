@@ -58,9 +58,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-<br/>
-<img align="left" alt="Deep Joshi's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djcodes327&layout=compact&theme=buefy" />
 <img align="left" alt="Deep Joshi's Stats" src="https://github-readme-stats.vercel.app/api?username=djcodes327&show_icons=true&theme=buefy" />
+
+<br />
+
+<img align="left" alt="Deep Joshi's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djcodes327&layout=compact&theme=buefy" />
 
 
 
