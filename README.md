@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Deep Joshi's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djcodes327&layout=compact&theme=buefy" />
 
+<br />
+
+<img align="left" alt="Deep Joshi's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime/?username=djcodes327&theme=buefy" />
 
 
 [website]: https://djcodes.tech
