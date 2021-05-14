@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
