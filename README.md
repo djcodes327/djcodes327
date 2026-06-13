@@ -1,5 +1,5 @@
-## Hi there Djcodes Here !!!👋
-### I'm a Developer,Entrepreneur and Student !!!
+## Hi there Deep Here !!!👋
+### I'm a Developer and Entrepreneur!!!
 
 <!--
 **djcodes327/djcodes327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
